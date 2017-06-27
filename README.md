@@ -1,2 +1,3 @@
 # maybach-shades
 My first repository on GitHub
+My name is nathan and I'm here to say...
